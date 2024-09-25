@@ -1,2 +1,2 @@
 # 8-bit-vedic-multiplier
-vedic procedure 8-bit number multiplication
+An 8-bit multiplier is synthesized and simulated in Xilinx ISE using Verilog HDL. The multiplication is performed using Vedic Mathematics which is proved to consume less power and faster than conventional multipliers.
